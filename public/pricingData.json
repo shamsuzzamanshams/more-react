@@ -30,6 +30,7 @@
 		"id": 3,
 		"planName": "Premium Plan",
 		"price": 70,
+		"popular":true,
 		"duration": "Monthly",
 		"description": "Perfect for beginners who want basic gym access and start their fitness journey.",
 		"features": [
