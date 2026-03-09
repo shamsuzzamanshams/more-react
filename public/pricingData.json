@@ -4,6 +4,7 @@
 		"planName": "Basic Plan",
 		"price": 20,
 		"duration": "Monthly",
+		"description": "Perfect for beginners who want basic gym access and start their fitness journey.",
 		"features": [
 			"Access to gym equipment",
 			"Locker facility",
@@ -16,6 +17,7 @@
 		"planName": "Standard Plan",
 		"price": 40,
 		"duration": "Monthly",
+		"description": "Perfect for beginners who want basic gym access and start their fitness journey.",
 		"features": [
 			"Access to gym equipment",
 			"Locker facility",
@@ -29,6 +31,7 @@
 		"planName": "Premium Plan",
 		"price": 70,
 		"duration": "Monthly",
+		"description": "Perfect for beginners who want basic gym access and start their fitness journey.",
 		"features": [
 			"Unlimited gym access",
 			"Locker & shower facility",
