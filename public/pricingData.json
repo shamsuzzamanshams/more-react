@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"planName": "Basic Plan",
+		"price": 20,
+		"duration": "Monthly",
+		"features": [
+			"Access to gym equipment",
+			"Locker facility",
+			"1 fitness assessment",
+			"Free WiFi"
+		]
+	},
+	{
+		"id": 2,
+		"planName": "Standard Plan",
+		"price": 40,
+		"duration": "Monthly",
+		"features": [
+			"Access to gym equipment",
+			"Locker facility",
+			"Personal trainer (2 sessions/month)",
+			"Group classes (Yoga, Zumba)",
+			"Free WiFi"
+		]
+	},
+	{
+		"id": 3,
+		"planName": "Premium Plan",
+		"price": 70,
+		"duration": "Monthly",
+		"features": [
+			"Unlimited gym access",
+			"Locker & shower facility",
+			"Personal trainer (8 sessions/month)",
+			"All group classes included",
+			"Diet consultation",
+			"Free protein shake (2/week)",
+			"Free WiFi"
+		]
+	}
+]
