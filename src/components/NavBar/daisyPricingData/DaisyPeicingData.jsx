@@ -1,7 +1,7 @@
 import React from 'react';
 
 const DaisyPeicingData = ({ pricing }) => {
-	const { planName, price, features,popular } = pricing
+	const { planName, price, features, popular } = pricing
 	return (
 		<div className="card w-96 bg-base-100 shadow-sm">
 			<div className="card-body">
